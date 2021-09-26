@@ -1,1 +1,1 @@
-pip install pychallonge
+cmd /c "pip install pychallonge"
